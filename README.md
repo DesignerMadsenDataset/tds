@@ -2,12 +2,12 @@
 ## Description
 This dataset contains spam emails that i have recieved. 
 Keep in mind that it only contains
-the content of the mail and not additional appendices that came with the mail. like pdfs, images and other appendices
-send with e-mails.
+the content of the mail and not additional appendices that came with the mail. Like pdfs, images and other appendices that can be send with e-mails.
 
 
 ## Content
 1. [License](License.md)
+
 
 ## Contributions
 
