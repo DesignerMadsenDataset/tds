@@ -6,8 +6,9 @@ the content of the mail and not additional appendices that came with the mail. L
 
 
 ## Content
-1. [License](License.md)
-
+1. [Changelog](changelog.md)
+2. [Contributions](contributions.md)
+3. [License](License.md)
 
 ## Contributions
 
