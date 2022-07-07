@@ -1,1 +1,2 @@
-# Dataset content is in this directory, sorted by formats
+# Dataset content 
+Dataset content in this directory, is sorted by email provider and mail address
