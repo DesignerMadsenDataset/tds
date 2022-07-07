@@ -1,0 +1,19 @@
+# default
+* text=auto
+
+*.md diff=markdown
+
+*.sh diff=bash
+*.sh text eol=lf
+
+
+# Appendicies for the repository, with lfs
+*.zip filter=lfs diff=lfs merge=lfs -text
+
+
+# Rest
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+/.github export-ignore
+CHANGELOG.md export-ignore
