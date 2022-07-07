@@ -14,6 +14,7 @@ send with e-mails.
 
 ## Preview
 ![Image showing a mail box as a metaphor for e-mail](preview.jpg)
+
 [DeviantArt, 2022, Designermadsen](https://www.deviantart.com/designermadsen/art/You-got-mail-921709679)
 
 
