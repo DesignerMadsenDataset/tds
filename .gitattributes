@@ -18,8 +18,8 @@
 
 
 # Rest
-.gitignore text eol=lf
-.gitattributes text eol=lf
+.gitignore text diff=gitignore
+.gitattributes text  diff=gitattributes
 
 /.github export-ignore
 CHANGELOG.md export-ignore
