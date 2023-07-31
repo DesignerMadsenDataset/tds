@@ -3,13 +3,15 @@
 
 *.md diff=markdown eol=crlf
 
-*.sh text diff=sh
-*.ps1 text diff=ps1 eol=crlf
-
 *.csv text diff=csv
 *.tsv text diff=tsv
 
 *.txt text diff=text
+
+
+# System scripts
+*.ps1 text diff=ps1 eol=crlf
+*.sh text diff=sh
 *.py text diff=py
 *.ipynb text diff=ipynb
 
