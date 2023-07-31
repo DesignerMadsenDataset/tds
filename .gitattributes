@@ -1,13 +1,18 @@
 # default
-* text=auto eol=lf
+* text=auto eol=lf diff=auto
 
 *.md diff=markdown eol=crlf
 
 *.sh text diff=sh
-*.ps1 text diff=ps1
+*.ps1 text diff=ps1 eol=crlf
 
 *.csv text diff=csv
+*.tsv text diff=tsv
+
 *.txt text diff=text
+*.py text diff=py
+*.ipynb text diff=ipynb
+
 
 # Appendicies for the repository, with lfs
 # normal zip files
